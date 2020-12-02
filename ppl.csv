@@ -1,0 +1,101 @@
+id,age,salary,height,family_size,location,sex,car
+1,18,32354,151,4,urban,male,Toyota Celica GT-S 2dr
+2,57,32471,181,3,rural,female,Ford Crown Victoria 4dr
+3,21,90452,151,1,rural,male,BMW Z4 convertible 2.5i 2dr
+4,40,56945,163,1,urban,female,Volvo XC70
+5,17,86111,163,3,urban,male,Cadillac XLR convertible 2dr
+6,42,94743,178,1,rural,male,Toyota Sequoia SR5
+7,46,87569,150,5,urban,female,Jaguar Vanden Plas 4dr
+8,38,52642,167,1,urban,male,Volkswagen Jetta GLI VR6 4dr
+9,24,84477,164,3,rural,female,Isuzu Rodeo S
+10,21,60250,172,4,urban,female,Mitsubishi Lancer Sportback LS
+11,36,81344,158,2,rural,male,Isuzu Rodeo S
+12,19,86946,185,1,rural,male,Mercedes-Benz ML500
+13,43,97879,189,2,urban,male,Audi RS 6 4dr
+14,61,33642,173,2,urban,male,Hyundai Tiburon GT V6 2dr
+15,42,59512,176,2,urban,male,Pontiac Grand Am GT 2dr
+16,37,40391,158,4,urban,male,Nissan 350Z Enthusiast convertible 2dr
+17,49,97529,180,1,urban,male,Mitsubishi Galant GTS 4dr
+18,59,97160,181,4,rural,female,Mitsubishi Montero XLS
+19,21,99998,171,1,urban,female,Infiniti G35 Sport Coupe 2dr
+20,45,42532,160,2,urban,male,Pontiac GTO 2dr
+21,25,42690,160,3,urban,male,Audi A41.8T convertible 2dr
+22,24,39729,178,5,rural,male,Ford Mustang GT Premium convertible 2dr
+23,34,53385,160,5,rural,male,Mitsubishi Outlander LS
+24,31,68069,174,2,urban,female,Audi A4 3.0 Quattro 4dr auto
+25,32,81546,175,2,urban,male,Mercedes-Benz C320 Sport 2dr
+26,39,81017,171,2,rural,male,Isuzu Rodeo S
+27,20,96498,153,5,urban,female,Volvo S60 R 4dr
+28,60,51435,172,1,urban,male,Pontiac GTO 2dr
+29,56,30091,184,4,urban,male,Porsche 911 Carrera convertible 2dr (coupe)
+30,22,50670,155,3,urban,female,Volkswagen Passat GLS 1.8T
+31,46,99884,187,1,urban,female,Infiniti M45 4dr
+32,34,51455,189,1,rural,male,Honda Element LX
+33,26,41671,181,1,urban,male,Nissan Sentra SE-R 4dr
+34,21,46115,158,2,rural,male,Volkswagen New Beetle GLS convertible 2dr
+35,58,65046,190,4,rural,female,Buick Rendezvous CX
+36,29,56676,176,1,urban,female,Subaru Outback Limited Sedan 4dr
+37,59,48513,155,1,urban,male,Buick Park Avenue 4dr
+38,21,41932,184,1,urban,female,Volvo V40
+39,24,48546,183,5,urban,female,Volvo V40
+40,38,33526,151,1,rural,male,Mazda RX-8 4dr automatic
+41,42,94560,177,4,urban,male,Mercedes-Benz E500
+42,24,65578,188,1,urban,female,Jaguar X-Type 2.5 4dr
+43,54,40269,185,1,urban,female,Honda Accord LX V6 4dr
+44,55,82030,177,5,urban,male,Pontiac Montana EWB
+45,58,48435,187,2,urban,male,Lincoln LS V6 Premium 4dr
+46,33,76547,178,1,urban,male,Subaru Outback H6 4dr
+47,43,90725,175,1,rural,female,GMC Yukon XL 2500 SLT
+48,38,43753,152,4,rural,male,Ford Excursion 6.8 XLT
+49,28,36605,158,1,urban,female,Toyota Echo 2dr auto
+50,47,94567,150,1,urban,male,Mercedes-Benz E500
+51,40,58728,164,3,urban,female,BMW 325xi Sport
+52,43,50106,151,3,urban,male,Saturn L300-2 4dr
+53,54,79729,158,5,urban,male,Ford Thunderbird Deluxe convert w/hardtop 2dr
+54,29,73382,165,1,urban,female,Mercedes-Benz C240
+55,59,67721,177,2,urban,male,Chrysler Town and Country LX
+56,26,48422,171,3,urban,male,Audi TT 3.2 coupe 2dr (convertible)
+57,26,92395,164,4,rural,female,Audi S4 Avant Quattro
+58,59,98321,186,3,urban,male,Audi RS 6 4dr
+59,31,93839,182,3,urban,male,Volvo S60 R 4dr
+60,41,65243,174,5,rural,male,Pontiac Aztekt
+61,19,27619,173,3,urban,female,Toyota Echo 4dr
+62,30,46501,178,4,rural,female,Saturn VUE
+63,23,31566,165,1,urban,female,Ford Focus SE 4dr
+64,41,61386,178,1,urban,male,Pontiac Bonneville GXP 4dr
+65,53,47744,151,2,urban,male,Pontiac GTO 2dr
+66,51,88165,158,1,urban,male,Jaguar XKR convertible 2dr
+67,24,82370,165,5,urban,female,Mercedes-Benz CLK500 coupe 2dr (convertible)
+68,53,34497,156,1,urban,male,Mazda6 i 4dr
+69,41,86918,167,2,urban,male,Chrysler Pacifica
+70,41,90538,165,2,urban,female,Mercedes-Benz C320 4dr
+71,51,60306,159,4,rural,male,Mercedes-Benz SLK230 convertible 2dr
+72,39,92222,154,2,rural,female,BMW X3 3.0i
+73,28,91047,164,3,urban,male,Audi S4 Quattro 4dr
+74,48,81014,176,1,rural,female,Suzuki XL-7 EX
+75,37,83722,184,3,rural,female,Land Rover Freelander SE
+76,32,83008,181,1,rural,male,Toyota Highlander V6
+77,19,94816,181,5,rural,female,Nissan Pathfinder SE
+78,59,31166,173,5,rural,male,Porsche Boxster convertible 2dr
+79,25,84372,184,5,rural,male,Toyota Highlander V6
+80,28,84517,173,5,urban,male,Chevrolet Corvette 2dr
+81,50,80230,173,1,urban,male,Lexus GS 430 4dr
+82,40,37854,171,5,urban,female,Chevrolet Aveo 4dr
+83,54,66777,184,3,rural,male,Lexus RX 330
+84,31,99849,150,4,urban,male,Porsche 911 Targa coupe 2dr
+85,59,68838,187,4,urban,male,Nissan Sentra 1.8 S 4dr
+86,54,69539,168,1,rural,male,Cadillac Escalade
+87,29,84161,190,2,urban,female,Subaru Outback H6 4dr
+88,41,82910,173,2,urban,male,Mercedes-Benz CLK500 coupe 2dr (convertible)
+89,40,65174,158,2,urban,female,Hyundai Sonata GLS 4dr
+90,55,91296,190,3,urban,male,Audi A6 2.7 Turbo Quattro 4dr
+91,26,73627,177,1,urban,male,Subaru Outback H6 4dr
+92,31,80110,174,4,urban,female,Jaguar X-Type 3.0 4dr
+93,43,44024,182,1,rural,male,Ford Excursion 6.8 XLT
+94,37,40657,179,2,rural,female,Ford Excursion 6.8 XLT
+95,31,38050,157,5,urban,female,Honda Insight 2dr (gas/electric)
+96,18,95743,185,2,rural,male,Jeep Grand Cherokee Laredo
+97,53,54670,157,4,urban,female,Audi A6 3.0 4dr
+98,39,50448,173,2,rural,female,Ford Excursion 6.8 XLT
+99,31,25169,180,1,rural,male,Toyota Sienna CE
+7,46,87569,150,5,urban,female,Jaguar Vanden Plas 4dr
